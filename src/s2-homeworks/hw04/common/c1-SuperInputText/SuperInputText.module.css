@@ -1,0 +1,29 @@
+.input:focus {
+
+}
+
+.input {
+    width: 276px;
+    height: 36px;
+    flex-shrink: 0;
+    margin-left: 70px;
+
+
+}
+
+.inputWrapper {
+
+}
+
+.superInput {
+
+}
+
+.errorInput {
+}
+
+.errorInput:focus {
+}
+
+.error {
+}

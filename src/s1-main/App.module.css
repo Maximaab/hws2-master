@@ -1,0 +1,24 @@
+.App {
+    --header_height: 60px;
+
+}
+
+.hw {
+
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 216px;
+
+}
+
+.hwTitle {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+
+
+ }
